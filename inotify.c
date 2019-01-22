@@ -1,18 +1,18 @@
 /* Andre Augusto Giannotti Scota (a2gs)
  * andre.scota@gmail.com
  *
- * <Project Name>
+ * inotify(7) full sample
  *
- * <Licence>
+ * Public Domain
  *
  */
 
-/* <file name>
- * <File description>
+/* inotify.c
+ * inotify(7) full sample
  *
  *  Who     | When       | What
  *  --------+------------+----------------------------
- *          |            |
+ *   a2gs   | 22/01/2019 | Creation
  *          |            |
  */
 
