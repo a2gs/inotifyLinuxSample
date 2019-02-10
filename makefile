@@ -1,7 +1,12 @@
+CC = gcc
+CFLAGS = -g -Wall -std=c11 -D_XOPEN_SOURCE=700
+
+RM = rm -rf
+
 all: clean inotify
 
 inotify:
-	cc -o inotify inotify.c -Wall -g
+	$(CC) -o inotify inotify.c $(CFLAGS)
 
 clean:
-	-rm inotify
+	-$(RM) inotify
