@@ -3,7 +3,7 @@
  *
  * inotify(7) full sample
  *
- * Public Domain
+ * MIT License
  *
  */
 
